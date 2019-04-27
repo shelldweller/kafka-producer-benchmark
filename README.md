@@ -1,5 +1,5 @@
 Running benchmarks:
 
 ```
-python -m kafka_producerbenchmark benchmark_type topic_name
+python -m kafka_producer_benchmark benchmark_type topic_name
 ```
